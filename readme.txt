@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 We can use GitHub to store files.
 Creating a new branch is quick and simple.
+stop using fast forward.
 
